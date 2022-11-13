@@ -1,5 +1,5 @@
 GoogleNews/GoogleNews-vectors-negative300.bin.gz
-kaggle_data/data_identification,csv
+kaggle_data/data_identification.csv
 kaggle_data/emotion.csv
 kaggle_data/sampleSubmission.csv
 kaggle_data/tweets_DM.json
