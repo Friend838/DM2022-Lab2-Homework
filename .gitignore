@@ -1,3 +1,4 @@
+glove/
 GoogleNews/GoogleNews-vectors-negative300.bin.gz
 kaggle_data/data_identification.csv
 kaggle_data/emotion.csv
